@@ -3,7 +3,7 @@
 MSc in CS Candidate @ UCSC | Lecturer @ College of ICT | Founder @ Neurodigiz
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
 - 🌱 I’m currently specializing in **Spring Boot & System Security**
-- 🎓 Graduated with **First Class (BIT)** & Batch Top with 2 gold medals🥇🥇
+- 🎓 Graduated with **First Class (BIT)** & Batch Top with 2 gold medals🥇
 - 🔭 Working on **Neurodigiz Academy** & Freelance Enterprise Apps
 - 👯 I’m open to collaborating on **SpringBoot, MERN & Next.js Projects**
 - 💬 Ask me about **Spring Boot, MERN, or Career Guidance**
