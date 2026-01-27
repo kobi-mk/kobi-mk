@@ -1,12 +1,12 @@
 # Hi there 👋 It's me Kobi
 
-MSc Candidate @ UCSC | Lecturer @ College of ICT | Founder @ Neurodigiz
+MSc in CS Candidate @ UCSC | Lecturer @ College of ICT | Founder @ Neurodigiz
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
 - 🌱 I’m currently specializing in **Spring Boot & System Security**
-- 🎓 Recently graduated with **First Class Honours (BIT)** & Batch Top
+- 🎓 Recently graduated with **First Class (BIT)** & Batch Top with 2 gold medals🥇🥇
 - 🔭 Working on **Neurodigiz Academy** & Freelance Enterprise Apps
-- 👯 I’m open to collaborating on **MERN Stack & Next.js Projects**
-- 💬 Ask me about **Java, React, or Career Guidance**
+- 👯 I’m open to collaborating on **Spring Boot, MERN Stack & Next.js Projects**
+- 💬 Ask me about **Spring Boot, MERN, or Career Guidance**
 - 📫 How to reach me :
 <br /><br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kovarthanmahendram/)
 
