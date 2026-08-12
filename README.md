@@ -1,6 +1,6 @@
 # Hi there 👋 It's me Kobi
 
-MSc in CS Candidate @ UCSC | Lecturer @ College of ICT | Founder @ Neurodigiz
+Lecturer @ College of ICT | Founder @ Neurodigiz | BIT (UCSC) Batch Top (2024 Academic Year)
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
 - 🌱 I’m currently specializing in **Spring Boot & System Security**
 - 🎓 Graduated with **First Class (BIT)** & Batch Top with 2 gold medals🥇
